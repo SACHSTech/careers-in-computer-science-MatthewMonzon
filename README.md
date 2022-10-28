@@ -56,10 +56,25 @@ For more information on the Salary [click here](https://www.glassdoor.ca/Salarie
 ### Job opportunities 
 <br>|Salary|City|Job Description|Additional skills or experience
 --- | --- | --- | --- | --- |
-[Business Analyst (Entry Level) - Western Canada CIC IBM Canada](https://ca.indeed.com/Entry-Level-Business-Analyst-jobs?vjk=f705da69e9e41651)|
-[Business Systems Analyst (Mid Level) - IVARI](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=9474f8e88f78dadf&advn=9958590621182329)|
-[IT Business Analyst (Senior Level) - Hire Intellect](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=2c63c975a64695b0&advn=5432651184096445)|
+[Business Analyst (Entry Level) - Western Canada CIC IBM Canada](https://ca.indeed.com/Entry-Level-Business-Analyst-jobs?vjk=f705da69e9e41651)|86.5k-110k Estimated by Indeed|Calgary, AB|Business Analysts deal with big data and analytics to help our clients ensure they are working most effectively by analyzing their processes and procedures to understand problems and find innovative solutions.|Have no more than 2 years of full-time professional related work experience. Have graduated no earlier than 2020, and will be graduating no later than 2022
+[Business Systems Analyst (Mid Level) - IVARI](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=9474f8e88f78dadf&advn=9958590621182329)|Not specified in job posting|Toronto,ON|You will utilize analytics tools to track, report, and analyze website trends to understand digital user behavior and identify opportunities for website enhancements.|2+ years of experience. Analytical skills and a variety of requirement gathering techniques to understand the business needs, to elicit, analyze, document, and communicate business and system requirements
+[IT Business Analyst (Senior Level) - Hire Intellect](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=2c63c975a64695b0&advn=5432651184096445)|Not specified in job posting|Greater Toronto Area, ON|This role within the IT team will collaborate to deliver innovative solutions for our clients’ Management initiatives. The candidate will elicit, analyze, and capture requirements to meet business partner needs in the Front / Middle / Back Office, Distribution, Finance, Risk and Controls teams.|5+ years’ experience as Business System Analyst in Investments, Asset Management and/or Capital Markets environment. Strong and broad domain knowledge of investment financial instruments and asset management business. Practical experience in data analytics, including data collection, analysis, and modelling.
 
 ## Experiential Learning
+Most IT Business Analyst jobs prefer experience in a similar position. Additional co-op and internships are suggested to gain experience and could lead to job offers after the co-op or internship period is over. Schools and companies offer co-op and internship opportunities to help gain experience within the workplace and make a more competitive candidate when applying for jobs. 
+
+For more information on Co-Op or Internships visit company websites
+
+[IBM Internships](https://www.ibm.com/ca-en/employment/internships/)![alt text](https://lhra.io/wp-content/uploads/2018/11/ibm-logo.jpeg)
+
+## Works Cited
+- “Salary: IT Business Analyst (October, 2022).” Glassdoor.ca, 2022, www.glassdoor.ca/Salaries/it-business-analyst-salary-SRCH_KO0,19.htm. Accessed 28 Oct. 2022.
+- “Computer Science - Future Students. University of Toronto.” Future Students. University of Toronto, 6 Dec. 2021, https://future.utoronto.ca/undergraduate-programs/computer-science/ Accessed 28 Oct. 2022.
+- “IT Business Analyst Jobs in Toronto, on (with Salaries) 2022 | Indeed.com Canada.” Indeed.com, 2022,https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=2c63c975a64695b0&advn=5432651184096445 Accessed 28 Oct. 2022.
+- “University of Toronto (UToronto, U of T) Logo SVG.” Logo.wine, 2022, www.logo.wine/logo/University_of_Toronto. Accessed 28 Oct. 2022.
+- Lighthouse Research & Advisory. “Ibm Logo - Lighthouse Research & Advisory.” Lighthouse Research & Advisory, Nov. 2018, 2022.https://lhra.io/blog/algorithms-bias-decision-making-podcast-insights-ibm-leaders/ibm-logo/ Accessed 28 Oct.
+
+‌
+
 
 
