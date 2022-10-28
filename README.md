@@ -14,7 +14,7 @@ Duties and responsibilities in an IT Business Analyst job may include:
 ## Education
 A Bachelor’s degree in computer science, computer systems engineering, software engineering, or a related field in required for most jobs within this field.
 You may be ask for programming certifications from software vendors as well
-### UOFT Computer Science![alt text](https://download.logo.wine/logo/University_of_Toronto/University_of_Toronto-Logo.wine.png)
+### UOFT Computer Science<img src="https://download.logo.wine/logo/University_of_Toronto/University_of_Toronto-Logo.wine.png" width="500" height="">
 Entry requirements for UOFT Computer Science include:
  * Ontario Secondary School Diploma
  * Six 4U/M courses, including:
