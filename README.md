@@ -39,11 +39,27 @@ To compete the degree it will usually take 4 years.
 
 
 ## Skills
-* Customer service skills
-* Written and verbal communication skills
-* Good ability to work independently and collaboratively in larger groups
-* Understanding of operating systems and programming languages like C++, HTML, Java, Linux, Oracle, Pascal and Delphi
-* Ability to create clear documentation and explain complex process flows
-* Strong analytical, critical thinking, and problem-solving skills
-* Ability to determine which features people will use most and help the company implement a software or hardware upgrade to add them
-* 
+Technical skills|Non-Technical skills
+--- | ---
+Understanding of operating systems and programming languages like C++, HTML, Java, Linux, Oracle, Pascal and Delphi|Customer service skills
+Ability to create clear documentation and explain complex process flows|Written and verbal communication skills
+<br>|Good ability to work independently and collaboratively in larger groups
+<br>|Ability to determine which features people will use most and help the company implement a software or hardware upgrade to add them
+<br>|Strong analytical, critical thinking, and problem-solving skills
+
+## Working
+### Salary
+58k-105k
+Average 78k
+
+For more information on the Salary [click here](https://www.glassdoor.ca/Salaries/it-business-analyst-salary-SRCH_KO0,19.htm)
+### Job opportunities 
+<br>|Salary|City|Job Description|Additional skills or experience
+--- | --- | --- | --- | --- |
+[Business Analyst (Entry Level) - Western Canada CIC IBM Canada](https://ca.indeed.com/Entry-Level-Business-Analyst-jobs?vjk=f705da69e9e41651)|
+[Business Systems Analyst (Mid Level) - IVARI](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=9474f8e88f78dadf&advn=9958590621182329)|
+[IT Business Analyst (Senior Level) - Hire Intellect](https://ca.indeed.com/IT-Business-Analyst-jobs-in-Toronto,-ON?vjk=2c63c975a64695b0&advn=5432651184096445)|
+
+## Experiential Learning
+
+
