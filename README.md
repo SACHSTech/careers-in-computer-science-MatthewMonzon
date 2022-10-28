@@ -65,7 +65,7 @@ Most IT Business Analyst jobs prefer experience in a similar position. Additiona
 
 For more information on Co-Op or Internships visit company websites
 
-[IBM Internships](https://www.ibm.com/ca-en/employment/internships/)![alt text](https://lhra.io/wp-content/uploads/2018/11/ibm-logo.jpeg)
+[IBM Internships](https://www.ibm.com/ca-en/employment/internships/)!<img src="https://lhra.io/wp-content/uploads/2018/11/ibm-logo.jpeg" width="200" height="200">
 
 ## Works Cited
 - “Salary: IT Business Analyst (October, 2022).” Glassdoor.ca, 2022, www.glassdoor.ca/Salaries/it-business-analyst-salary-SRCH_KO0,19.htm. Accessed 28 Oct. 2022.
